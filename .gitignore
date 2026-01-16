@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+
+# 내부 문서 (GitHub에서 제외)
+CURRENT_STATUS.md
+GITHUB_UPLOAD_PLAN.md
+GITHUB_UPLOAD.md
+GPG_SETUP.md
+QUICK_GPG_SETUP.md
+HOW_TO_RUN.md
+RESULT_EXPLANATION.md
+NEXT_WORK_ROADMAP.md
+README_GITHUB.md
+PACKAGE_CONTENTS.md
+PACKAGE_SUMMARY.md
+upload_to_github.sh
+setup_signed_release.sh
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+*.tmp
+
+# 내부 문서 (GitHub 공개 시 제외)
+STRATEGIC_ROADMAP.md
+CODE_INTEGRATION_PLAN.md
+API_CONTRACT_DESIGN.md
+CURRENT_PROGRESS.md
+FIRST_RELEASE_SUMMARY.md
+RELEASE_CHECKLIST.md
+ENGINE_TO_PRODUCT_ROADMAP.md
+APPLICATIONS_AND_USE_CASES.md
+STEP1_ENGINE_IDENTITY.md
+PACKAGING_GUIDE.md
+FINAL_PACKAGING.md
+ENGINE_READINESS_ANALYSIS.md
+ENGINE_ACTION_PLAN.md
+IMPLEMENTATION_GUIDE.md
+COMPLETE_ROADMAP.md
+STEP_BY_STEP_GUIDE.md
+COMMERCIAL_POTENTIAL.md
+
